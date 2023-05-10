@@ -8,7 +8,9 @@ This information should also be present in your Git commit messages. Ideally, if
 
 ## Checklist
 
-- [ ] Have the changes been tested on your local dev environment?
+- [ ] I have tested this code on my local dev environment and not found any bugs or defects
+- [ ] I have written or updated unit tests for this code or the unit tests relevant to this code do not require changes
+- [ ] I have created or updated relevant documentation for this code
 
 ## Screenshot / videos
 
