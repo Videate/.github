@@ -9,6 +9,7 @@ This information should also be present in your Git commit messages. Ideally, if
 ## Checklist
 
 - [ ] I have tested this code on my local dev environment and not found any bugs or defects
+- [ ] If this code is associated with a feature flag, I have tested it both with the flag enabled and disabled
 - [ ] I have written or updated unit tests for this code or the unit tests relevant to this code do not require changes
 - [ ] I have created or updated relevant documentation for this code
 
